@@ -1,0 +1,6 @@
+# add .npz files to ignore
+*.npz
+
+# add .npy files to ignore
+*.npy
+
