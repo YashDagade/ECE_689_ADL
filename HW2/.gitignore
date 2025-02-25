@@ -4,3 +4,9 @@
 # add .npy files to ignore
 *.npy
 
+# add .zip files to ignore
+*.zip
+
+# add .tar files to ignore
+*.tar
+
